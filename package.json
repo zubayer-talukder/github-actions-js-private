@@ -1,0 +1,19 @@
+{
+  "name": "simple-js-ci-demo",
+  "version": "1.0.0",
+  "description": "Simple JavaScript app with tests and GitHub Actions",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
