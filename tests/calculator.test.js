@@ -11,7 +11,7 @@ test('subtracts two numbers', () => {
 test('multiplies two numbers', () => {
   expect(multiply(4, 3)).toBe(12);
 });
-
 test('divide two numbers', () => {
   expect(divide(6, 3)).toBe(2);
-});
+})
+
